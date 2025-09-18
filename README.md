@@ -8,8 +8,6 @@ I’m Willow, I came out as trans 🏳️‍⚧️ in June of 2025 (I know it co
 
 I have a bunch of projects in vareus states of function publicly. Don't expect much from them they are collage projects and i didn't always leave them in a perfect or even working order you have been worned. There also mostly gray box I am a programmer after all. 
 
-I’m working on a game with a good friend – with me being the main/sole programmer and them being the designer.
-
 I’m also working on learning the Vulkan rendering API, to hopefully make an engine out of it. I don’t currently have a goal other than to make it render something I’ll figure it out.
 
 ## pc stuff 
@@ -26,7 +24,7 @@ I’m running Nobara Linux because Windows burned me for the last time around th
 ## education
 
 I’ve graduated from Stoke on Trent College with a Level 3 Diploma in Games Design and Programming.
-currently studdying at sae leeds for games programming
+currently studdying at sae leeds for games programming.
 
 ## where to reach me
 
