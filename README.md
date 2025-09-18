@@ -1,7 +1,7 @@
 # Haii
 
 
-I’m Willow, formerly Joe/Joseph. I came out as trans 🏳️‍⚧️ in June of 2025 (I know it couldn’t have been a better month!). I love most if not all areas of computer science, but my favorite is game development and very much all of it. It’s something that I haven’t found anything more fun: creating experiences for others to enjoy, or creating the software to create those experiences. It all fascinates me. I do also love the modding scene modding a game into a version I want, or just for a little fun. Some of my favorite games not only embrace modding but thrive some – like Arma 3/Reforged and DayZ. Those games have given me so much fun, and modders are responsible. My last hobby is hacking and cybersecurity, though most games like Capture the Flag and video games like Gray Hack.
+I’m Willow, I came out as trans 🏳️‍⚧️ in June of 2025 (I know it couldn’t have been a better month!). I love most if not all areas of computer science, but my favorite is game development and very much all of it. It’s something that I haven’t found anything more fun: creating experiences for others to enjoy, or creating the software to create those experiences. It all fascinates me. I do also love the modding scene modding a game into a version I want, or just for a little fun. Some of my favorite games not only embrace modding but thrive some – like Arma 3/Reforged and DayZ. Those games have given me so much fun, and modders are responsible. My last hobby is hacking and cybersecurity, though most games like Capture the Flag and video games like Gray Hack.
 
 
 ## Project
